@@ -13,6 +13,8 @@ Links to program synopses:
 
 [assn6](#assn6)
 
+[assn7](#assn7)
+
 ### <a id='assn2'></a>
 ## assn2
 
